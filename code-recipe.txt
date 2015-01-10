@@ -1,0 +1,16 @@
+-This is to prepare a good problem for problem contests
+
+Ingredients
+- New original Idea
+- Good DS and Algo knowlegde
+- Command over a programming language
+- A tester
+
+Process:
+- Write the problem statement
+- Write you solution code
+- Generate Test Cases
+- Host on polygon.codeforces.com
+- Ask the tester to test
+
+Have fun !!
